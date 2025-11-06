@@ -1,8 +1,8 @@
 # PROYECTO-MATEMATICA-DISCRETA-
 
-=====================================================
+
 DOCUMENTACIÓN FORMAL DEL PROYECTO: SISTEMA DE ÁRBOLES GENERALES
-=====================================================
+
 
 I. INTRODUCCIÓN
 
